@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/VR_Mesto_Vektor.unity
+    guid: 1ba2da2087b93794a8091a042c5ca72f
+  - enabled: 0
+    path: Assets/Scenes/VR_Mesto_Textury.unity
+    guid: 43eb89d9f09cc194a87fd583c685cdaa
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8979e6bd6fee7eb49839e2409f5cd237, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 40281700fb02a094da4e957d56e06f97, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 767dbeaa3c95ae1438f69f97e143eba1, type: 2}
+  m_UseUCBPForAssetBundles: 0
